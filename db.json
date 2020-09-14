@@ -1,0 +1,403 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "cities_fr": [
+    {
+      "id": "Квартира",
+      "city": "Plat"
+    },
+    {
+      "id": "Реутов",
+      "city": "Reutov"
+    },
+    {
+      "id": "Адлер",
+      "city": "Adler"
+    },
+    {
+      "id": "伯尔尼外训—住宿799",
+      "city": "Berne Formation-Logement 799"
+    },
+    {
+      "id": "自宅",
+      "city": "Accueil"
+    },
+    {
+      "id": "zNzクラウンプラザホテル稚内",
+      "city": "Hôtel zNz Crown Plaza à Wakauchi"
+    },
+    {
+      "id": "La paz",
+      "city": "La paix"
+    },
+    {
+      "id": "和平",
+      "city": "paix"
+    },
+    {
+      "id": "Pas de la Casa",
+      "city": "Pas de la Casa"
+    },
+    {
+      "id": "Telchac Pueblo",
+      "city": "Telchac Pueblo"
+    },
+    {
+      "id": "La Paz, Bolovia",
+      "city": "La Paz, Bolivie"
+    },
+    {
+      "id": "圣地亚哥, UNITED STATES",
+      "city": "San Diego, ÉTATS-UNIS"
+    },
+    {
+      "id": "自宅, CHINA",
+      "city": "Accueil, CHINE"
+    },
+    {
+      "id": "Квартира, RUSSIA",
+      "city": "Appartement, RUSSIE"
+    },
+    {
+      "id": "лабунского 9А кв,99, ровно, UKRAINE",
+      "city": "labunskogo 9A apt, 99, Rivne, UKRAINE"
+    },
+    {
+      "id": "Квартира, Rwanda",
+      "city": "Appartement, Rwanda"
+    },
+    {
+      "id": "Адлер, Lesotho",
+      "city": "Adler, Lesotho"
+    },
+    {
+      "id": "zNzクラウンプラザホテル稚内, Mayotte",
+      "city": "Hôtel zNz Crown Plaza à Wakauchi, Mayotte"
+    },
+    {
+      "id": "Квартира, Curacao",
+      "city": "Appartement, Curaçao"
+    },
+    {
+      "id": "zNzクラウンプラザホテル稚内, Japan",
+      "city": "Hôtel zNz Crown Plaza à Wakauchi, Japon"
+    },
+    {
+      "id": "Москва ФЛК ЦСКА",
+      "city": "Moscou FLK CSKA, Mongolie"
+    },
+    {
+      "id": "nrw",
+      "city": "nrw, Mongolia"
+    },
+    {
+      "id": "北莱茵-威斯特法伦州, GER",
+      "city": "Rhénanie du Nord-Westphalie, GER, Mongolie"
+    },
+    {
+      "id": "zNzクラウンプラザホテル稚内, Thailand",
+      "city": "zNz Crown Plaza Hotel Wakauchi, Thaïlande"
+    },
+    {
+      "id": "Москва ФЛК ЦСКА, Swaziland",
+      "city": "Moscou FLK CSKA, Swaziland"
+    },
+    {
+      "id": "City 2, undefined",
+      "city": "Ville 2, non défini"
+    },
+    {
+      "id": "自宅, Guam",
+      "city": "Domicile, Guam"
+    },
+    {
+      "id": "zNzクラウンプラザホテル稚内, Vanuatu",
+      "city": "Hôtel zNz Crown Plaza à Wakauchi, Vanuatu"
+    },
+    {
+      "id": "自宅, Namibia",
+      "city": "Domicile, Namibie"
+    },
+    {
+      "id": "Москва ФЛК ЦСКА, Uzbekistan",
+      "city": "Moscou FLK CSKA, Ouzbékistan"
+    }
+  ],
+  "cities_en": [
+    {
+      "id": "Адлер",
+      "city": "Adler"
+    },
+    {
+      "id": "City 2, undefined",
+      "city": "CITY 2"
+    },
+    {
+      "id": "伯尔尼外训—住宿799",
+      "city": "Berne Training-Accommodation 799"
+    },
+    {
+      "id": "自宅",
+      "city": "home"
+    },
+    {
+      "id": "zNzクラウンプラザホテル稚内",
+      "city": "zNz Crowne Plaza Hotel Wakkanai"
+    },
+    {
+      "id": "Квартира",
+      "city": "Flat"
+    },
+    {
+      "id": "和平",
+      "city": "peace"
+    },
+    {
+      "id": "Pas de la Casa",
+      "city": "Pas de la Casa"
+    },
+    {
+      "id": "Telchac Pueblo",
+      "city": "Telchac Pueblo"
+    },
+    {
+      "id": "La Paz, Bolovia",
+      "city": "La Paz, Bolivia"
+    },
+    {
+      "id": "圣地亚哥, UNITED STATES",
+      "city": "San Diego, UNITED STATES"
+    },
+    {
+      "id": "Ngong, KENYA",
+      "city": "Ngong, KENYA"
+    },
+    {
+      "id": "自宅, CHINA",
+      "city": "Home, CHINA"
+    },
+    {
+      "id": "Квартира, RUSSIA",
+      "city": "Apartment, RUSSIA"
+    },
+    {
+      "id": "лабунского 9А кв,99, ровно, UKRAINE",
+      "city": "labunskogo 9A apt, 99, Rivne, UKRAINE"
+    },
+    {
+      "id": "La Paz, MEX",
+      "city": "La Paz, MEX"
+    },
+    {
+      "id": "Москва ФЛК ЦСКА",
+      "city": "Moscow FLK CSKA, Mongolia"
+    },
+    {
+      "id": "nrw",
+      "city": "nrw, Mongolia"
+    },
+    {
+      "id": "北莱茵-威斯特法伦州, GER",
+      "city": "North Rhine-Westphalia, GER, Mongolia"
+    },
+    {
+      "id": "自宅, Guam",
+      "city": "Home, Guam"
+    },
+    {
+      "id": "zNzクラウンプラザホテル稚内, Vanuatu",
+      "city": "zNz Crowne Plaza Hotel Wakkanai, Vanuatu"
+    },
+    {
+      "id": "自宅, Namibia",
+      "city": "Home, Namibia"
+    },
+    {
+      "id": "Москва ФЛК ЦСКА, Uzbekistan",
+      "city": "Moscow FLK CSKA, Uzbekistan"
+    }
+  ],
+  "cities_es": [
+    {
+      "id": "Адлер",
+      "city": "Adler"
+    },
+    {
+      "city": "Adler",
+      "id": "9s1g_4O"
+    },
+    {
+      "id": "Adler",
+      "city": "Adler"
+    },
+    {
+      "id": "伯尔尼外训—住宿799",
+      "city": "Berna Alojamiento-formación 799"
+    },
+    {
+      "id": "zNzクラウンプラザホテル稚内",
+      "city": "zNz Crown Plaza Hotel Wakauchi"
+    },
+    {
+      "id": "自宅",
+      "city": "hogar"
+    },
+    {
+      "id": "La Paz, Bolovia",
+      "city": "La Paz, Bolivia"
+    },
+    {
+      "id": "Квартира, RUSSIA",
+      "city": "Apartamento, RUSIA"
+    },
+    {
+      "id": "лабунского 9А кв,99, ровно, UKRAINE",
+      "city": "labunskogo 9A apt, 99, Rivne, UCRANIA"
+    },
+    {
+      "id": "自宅, Guam",
+      "city": "Inicio, Guam"
+    },
+    {
+      "id": "zNzクラウンプラザホテル稚内, Vanuatu",
+      "city": "zNz Crown Plaza Hotel Wakauchi, Vanuatu"
+    },
+    {
+      "id": "自宅, Namibia",
+      "city": "Inicio, Namibia"
+    },
+    {
+      "id": "Москва ФЛК ЦСКА, Uzbekistan",
+      "city": "Moscú FLK CSKA, Uzbekistán"
+    },
+    {
+      "id": "伯尔尼外训—住宿799, France",
+      "city": "Berna Alojamiento-Formación 799, Francia"
+    },
+    {
+      "id": "Реутов, Malaysia",
+      "city": "Reutov, Malasia"
+    },
+    {
+      "id": "Москва ФЛК ЦСКА, Liberia",
+      "city": "Moscú FLK CSKA, Liberia"
+    },
+    {
+      "id": "Квартира, Dominican Republic",
+      "city": "Apartamento, República Dominicana"
+    },
+    {
+      "id": "伯尔尼外训—住宿799, Guam",
+      "city": "Berna Alojamiento-Capacitación 799, Guam"
+    },
+    {
+      "id": "zNzクラウンプラザホテル稚内, Spain",
+      "city": "zNz Crown Plaza Hotel Wakauchi, España"
+    },
+    {
+      "id": "ХАТА ЛЕНИНА 78а, Argentina",
+      "city": "SOMBRERO LENINA 78a, Argentina"
+    },
+    {
+      "id": "Москва ФЛК ЦСКА, Bouvet Island",
+      "city": "Moscú FLK CSKA, Isla Bouvet"
+    },
+    {
+      "id": "伯尔尼外训—住宿799, Vietnam",
+      "city": "Berna Alojamiento-Formación 799, Vietnam"
+    },
+    {
+      "id": "zNzクラウンプラザホテル稚内, Antigua and Barbuda",
+      "city": "zNz Crown Plaza Hotel Wakauchi, Antigua y Barbuda"
+    },
+    {
+      "id": "伯尔尼外训—住宿799, Mexico",
+      "city": "Berna Alojamiento-Capacitación 799, México"
+    },
+    {
+      "id": "Москва ФЛК ЦСКА, Belarus",
+      "city": "Moscú FLK CSKA, Bielorrusia"
+    },
+    {
+      "id": "伯尔尼外训—住宿799, Singapore",
+      "city": "Berne Training-Accommodation 799, Singapur"
+    },
+    {
+      "id": "Москва ФЛК ЦСКА, Macao",
+      "city": "Moscú FLK CSKA, Macao"
+    },
+    {
+      "id": "自宅, Gambia",
+      "city": "Inicio, Gambia"
+    },
+    {
+      "id": "Москва ФЛК ЦСКА, Maldives",
+      "city": "Moscú FLK CSKA, Maldivas"
+    },
+    {
+      "id": "Москва ФЛК ЦСКА, Canada",
+      "city": "Moscú FLK CSKA, Canadá"
+    },
+    {
+      "id": "Адлер, Austria",
+      "city": "Adler, Austria"
+    },
+    {
+      "id": "Квартира, Solomon Islands",
+      "city": "Apartamento, Islas Salomón"
+    },
+    {
+      "id": "自宅, Macao",
+      "city": "Inicio, Macao"
+    },
+    {
+      "id": "伯尔尼外训—住宿799, Canada",
+      "city": "Berne Training-Accommodation 799, Canadá"
+    },
+    {
+      "id": "Москва ФЛК ЦСКА, Chile",
+      "city": "Moscú FLK CSKA, Chile"
+    },
+    {
+      "id": "zNzクラウンプラザホテル稚内, Antarctica",
+      "city": "zNz Crown Plaza Hotel Wakauchi, Antártida"
+    },
+    {
+      "id": "City 2, undefined",
+      "city": "Ciudad 2, indefinida"
+    }
+  ],
+  "cities_cn": []
+}
